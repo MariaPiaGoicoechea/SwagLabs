@@ -33,5 +33,8 @@ Pasos para la instalación del proyecto:
 ![Extensions_1](https://github.com/MariaPiaGoicoechea/SwagLabs/blob/main/Images/Extensions2.JPG)
 ![Extensions_2](https://github.com/MariaPiaGoicoechea/SwagLabs/blob/main/Images/Extensions3.JPG)
 
-5) Dentro de la ventana "Test Explorer" se podrán ejecutar todos los tests disponibles.
+5) Compilar la solución.
+
+6) Dentro de la ventana "Test Explorer" se podrán ejecutar todos los tests disponibles.
+
 ![Test_Explorer](https://github.com/MariaPiaGoicoechea/SwagLabs/blob/main/Images/Test.JPG)
