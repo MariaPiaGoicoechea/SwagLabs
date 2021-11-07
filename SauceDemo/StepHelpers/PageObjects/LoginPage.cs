@@ -9,7 +9,7 @@ namespace SauceDemo.StepHelpers.PageObjects
         private readonly By _txtUsername = By.Id("user-name");
         private readonly By _txtPassword = By.Id("password");
         private readonly By _btnLogin = By.Id("login-button");
-        private readonly By _msgError = By.XPath("//h3[contains(text(),'Sorry, this user has been locked out')]");
+        private readonly By _msgError = By.CssSelector("h3[data-test='error']");
 
         public LoginPage(Browser browser)
         {
